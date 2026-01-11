@@ -140,4 +140,4 @@ MIT License
 
 ## 🌐 Links
 
-- X (Twitter): https://x.com/POLYLANORAxyz
+- X (Twitter): https://x.com/polylanoraxyz
