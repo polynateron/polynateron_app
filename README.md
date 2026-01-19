@@ -1,8 +1,8 @@
-# POLYLANORA
+# POLYNATERON
 
 **Advanced Analytics Platform for Polymarket**
 
-POLYLANORA is a lightweight, PHP-native web application designed to deliver real-time market analytics, wallet intelligence, and ecosystem insights for Polymarket.  
+POLYNATERON is a lightweight, PHP-native web application designed to deliver real-time market analytics, wallet intelligence, and ecosystem insights for Polymarket.  
 It focuses on performance, clarity, and modular analytics views without relying on heavy backend frameworks.
 
 ---
@@ -47,7 +47,7 @@ It focuses on performance, clarity, and modular analytics views without relying 
 ## 📁 Project Structure
 
 ```bash
-POLYLANORA/
+POLYNATERON/
 │
 ├── index.php
 ├── Dashboard.php
@@ -91,7 +91,7 @@ http://localhost:8000/index.php
 
 ```php
 <?php
-$pageTitle = "POLYLANORA — Dashboard";
+$pageTitle = "POLYNATERON — Dashboard";
 ?>
 
 <!doctype html>
@@ -134,10 +134,10 @@ $pageTitle = "POLYLANORA — Dashboard";
 ## 📄 License
 
 MIT License  
-© 2026 POLYLANORA
+© 2026 POLYNATERON
 
 ---
 
 ## 🌐 Links
 
-- X (Twitter): https://x.com/polylanoraxyz
+- X (Twitter): https://x.com/polynateronxyz
