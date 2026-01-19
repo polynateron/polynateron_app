@@ -9,7 +9,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>POLYLANORA — Portfolio</title>
+  <title>POLYNATERON — Portfolio</title>
   <meta name="description" content="Track Polymarket portfolio (Polydata-style UI) with suggestions + trader lookup." />
 
   <!-- Font (optional) -->
@@ -85,13 +85,13 @@
             <div class="h-7 w-7 rounded-xl border border-white/10 bg-white/5 grid place-items-center overflow-hidden">
               <img
                 src="https://i.ibb.co.com/Y7246jJ9/Chat-GPT-Image-Dec-21-2025-10-54-20-AM-removebg-preview.png"
-                alt="POLYLANORA"
+                alt="POLYNATERON"
                 class="h-7 w-7 object-contain"
                 loading="eager"
                 decoding="async"
               />
             </div>
-            <span class="hidden sm:inline text-sm font-semibold tracking-tight">POLYLANORA</span>
+            <span class="hidden sm:inline text-sm font-semibold tracking-tight">POLYNATERON</span>
           </a>
 
           <nav class="hidden md:block">
@@ -106,7 +106,7 @@
           </nav>
 
           <div class="flex items-center gap-3 px-4 md:px-0">
-            <a class="block opacity-90 hover:opacity-100 transition" href="https://x.com/POLYLANORAxyz" target="_blank" rel="noreferrer" title="X">
+            <a class="block opacity-90 hover:opacity-100 transition" href="https://x.com/POLYNATERONxyz" target="_blank" rel="noreferrer" title="X">
               <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" class="text-white">
                 <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"></path>
               </svg>
@@ -225,8 +225,8 @@
       <footer>
         <div class="flex flex-col md:flex-row justify-between items-center py-8 px-4 md:px-0 text-center md:text-left gap-4 md:gap-0">
           <p class="muted2 text-[14px]">
-            © 2025 POLYLANORA. All rights reserved.
-            <span>Follow us on <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/POLYLANORAxyz" target="_blank" rel="noreferrer">X</a>.</span>
+            © 2025 POLYNATERON. All rights reserved.
+            <span>Follow us on <a class="underline hover:text-[#3b82f6] transition-colors" href="https://x.com/POLYNATERONxyz" target="_blank" rel="noreferrer">X</a>.</span>
           </p>
         </div>
       </footer>
@@ -460,4 +460,5 @@
   </script>
 </body>
 </html>
+
 
